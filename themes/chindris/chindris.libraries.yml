@@ -1,0 +1,8 @@
+global-styling:
+  dependencies:
+    - system/maintenance
+    - bartik/global-styling
+  version: VERSION
+  css:
+    layout:
+      css/layout.css: {}

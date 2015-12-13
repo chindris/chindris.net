@@ -1,0 +1,22 @@
+[submodule "modules/embed"]
+	path = modules/embed
+	url = http://git.drupal.org/project/embed.git
+[submodule "modules/entity_embed"]
+	path = modules/entity_embed
+	url = http://git.drupal.org/project/entity_embed.git
+[submodule "modules/file_entity"]
+	path = modules/file_entity
+	url = git@github.com:drupal-media/file_entity.git
+[submodule "modules/paragraphs"]
+	path = modules/paragraphs
+	url = http://git.drupal.org/project/paragraphs.git
+[submodule "modules/magnific_popup"]
+	path = modules/magnific_popup
+	url = git@github.com:chindris/magnific_popup.git
+[submodule "modules/libraries"]
+	path = modules/libraries
+	url = http://git.drupal.org/project/libraries.git
+[submodule "modules/entity_reference_revisions"]
+	path = modules/entity_reference_revisions
+	url = http://git.drupal.org/project/entity_reference_revisions.git
+	branch = 8.x-1.x

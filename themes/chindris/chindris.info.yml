@@ -1,0 +1,9 @@
+name: Chindris
+type: theme
+base theme: bartik
+description: 'The custom theme of the site.'
+package: Custom
+version: VERSION
+core: 8.x
+libraries:
+  - chindris/global-styling
