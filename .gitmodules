@@ -20,3 +20,6 @@
 	path = modules/entity_reference_revisions
 	url = http://git.drupal.org/project/entity_reference_revisions.git
 	branch = 8.x-1.x
+[submodule "modules/pathauto"]
+	path = modules/pathauto
+	url = https://github.com/md-systems/pathauto
