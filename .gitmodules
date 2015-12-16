@@ -23,3 +23,6 @@
 [submodule "modules/pathauto"]
 	path = modules/pathauto
 	url = https://github.com/md-systems/pathauto
+[submodule "modules/token"]
+	path = modules/token
+	url = http://git.drupal.org/project/token.git
