@@ -2,3 +2,7 @@
     float: left;
     margin-right: 10px;
 }
+
+section.comment-wrapper {
+    clear: both;
+}
